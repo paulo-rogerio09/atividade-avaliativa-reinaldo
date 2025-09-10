@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formexemplocombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemplocombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formexemploalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemploalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|c:\\users\\2025102060042\\downloads\\appexemplo2\\appexemplo2\\appexemplo2\\formularios\\formexemploalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemploalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formexemplorotulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemplorotulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formexemplorotulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemplorotulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formalertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formalertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formcalculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formcalculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formcalculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formcalculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formalertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formalertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|c:\\users\\2025102060042\\downloads\\appexemplo2\\appexemplo2\\appexemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\appexemplo2\\formularios\\formexemplocombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00442058-45F1-4FB8-86B6-A0AFD5C173DD}|AppExemplo2\\AppExemplo2.csproj|solutionrelative:appexemplo2\\formularios\\formexemplocombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCalculoArea.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormCalculoArea.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormCalculoArea.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormCalculoArea.cs [Design]*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormCalculoArea.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:10:11.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormExemploComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploComboBox.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploComboBox.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploComboBox.cs [Design]*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploComboBox.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:55:53.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormExemploRotulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploRotulos.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploRotulos.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploRotulos.cs [Design]*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploRotulos.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:32:00.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormExemploAlerta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploAlerta.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploAlerta.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploAlerta.cs [Design]*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploAlerta.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:10:13.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAlertas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormAlertas.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormAlertas.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormAlertas.cs [Design]",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormAlertas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:10:09.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormExemploRotulos.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploRotulos.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploRotulos.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploRotulos.cs*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploRotulos.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwHMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:32:02.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormExemploAlerta.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploAlerta.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploAlerta.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploAlerta.cs*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploAlerta.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:14:44.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCalculoArea.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormCalculoArea.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormCalculoArea.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormCalculoArea.cs*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormCalculoArea.cs*",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:12:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAlertas.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormAlertas.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormAlertas.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormAlertas.cs",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormAlertas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:14:55.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Form1.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Form1.cs [Design]",
+              "RelativeToolTip": "AppExemplo2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:10:05.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Form1.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Form1.cs",
+              "RelativeToolTip": "AppExemplo2\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:34:46.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormExemploComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploComboBox.cs",
+              "RelativeDocumentMoniker": "AppExemplo2\\Formularios\\FormExemploComboBox.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Downloads\\AppExemplo2\\AppExemplo2\\AppExemplo2\\Formularios\\FormExemploComboBox.cs*",
+              "RelativeToolTip": "AppExemplo2\\Formularios\\FormExemploComboBox.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:58:28.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
