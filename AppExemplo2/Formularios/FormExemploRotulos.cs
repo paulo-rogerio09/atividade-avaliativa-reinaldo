@@ -28,8 +28,6 @@ namespace AppExemplo2.Formularios
 
 
 
-            else
-                salarioatualtxt.Select();
             
         }
 
@@ -44,8 +42,7 @@ namespace AppExemplo2.Formularios
 
 
 
-            else
-                reajustetxt.Select();
+
         }
 
         private void calcularbtn_Click(object sender, EventArgs e)

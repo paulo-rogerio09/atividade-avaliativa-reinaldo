@@ -85,6 +85,7 @@
             this.montantetxt.Name = "montantetxt";
             this.montantetxt.Size = new System.Drawing.Size(100, 20);
             this.montantetxt.TabIndex = 3;
+            this.montantetxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.montantetxt_KeyUp);
             // 
             // label2
             // 
@@ -137,6 +138,7 @@
             this.capitaltxt.Name = "capitaltxt";
             this.capitaltxt.Size = new System.Drawing.Size(100, 20);
             this.capitaltxt.TabIndex = 9;
+            this.capitaltxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.capitaltxt_KeyUp);
             // 
             // taxatxt
             // 
@@ -144,6 +146,7 @@
             this.taxatxt.Name = "taxatxt";
             this.taxatxt.Size = new System.Drawing.Size(100, 20);
             this.taxatxt.TabIndex = 10;
+            this.taxatxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.taxatxt_KeyUp);
             // 
             // tempotxt
             // 
@@ -151,6 +154,7 @@
             this.tempotxt.Name = "tempotxt";
             this.tempotxt.Size = new System.Drawing.Size(100, 20);
             this.tempotxt.TabIndex = 11;
+            this.tempotxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tempotxt_KeyUp);
             // 
             // jurostxt
             // 
@@ -167,6 +171,7 @@
             this.novobtn.TabIndex = 13;
             this.novobtn.Text = "NOVO";
             this.novobtn.UseVisualStyleBackColor = true;
+            this.novobtn.Click += new System.EventHandler(this.novobtn_Click);
             // 
             // label7
             // 
