@@ -115,5 +115,10 @@ namespace AppExemplo2.Formularios
             reajustetxt.Clear();
             respostalb.Text="SALARIO REAJUSTADO";
         }
+
+        private void salarioatualtxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

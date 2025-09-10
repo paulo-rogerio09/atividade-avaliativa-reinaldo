@@ -88,5 +88,66 @@ namespace AppExemplo2.Formularios
                 percentuallb.Visible = true;//para ficar visível
             }
         }
+
+        private void valortxt_KeyUp(object sender, KeyEventArgs e)
+        {
+            bool verificarNumero = false;
+            //Verificação do que foi digitado => Número ou Letra?
+            if ((e.KeyCode >= Keys.D0 && e.KeyCode <= Keys.D9) || (e.KeyCode >= Keys.NumPad0 && e.KeyCode <= Keys.NumPad9))
+            {
+                verificarNumero = true;
+
+            }
+            else
+            {
+                if (e.KeyCode == Keys.Oemcomma || e.KeyCode == Keys.Decimal) verificarNumero = true;//liberar a vírgula
+                if (e.KeyCode == Keys.Enter) verificarNumero = true; //liberar a tecla enter
+                if (e.KeyCode == Keys.Back) verificarNumero = true; //liberar a tecla back
+                int qtdVirgula = valortxt.Text.Count(v => v == ','); //contar virgulas
+                if (qtdVirgula > 1) verificarNumero = false;//verificar virgulas
+                                                            //validação final => a mensagem vai aparecer se um dos itens não foi atendido
+            }
+
+            if (verificarNumero == false)
+            {
+                MessageBox.Show("Somente números", "ADS/JIPA", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                valortxt.Text = valortxt.Text.Remove(valortxt.Text.Length - 1);
+            }
+        }
+
+        private void descontotxt_KeyUp(object sender, KeyEventArgs e)
+        {
+            bool verificarNumero = false;
+            //Verificação do que foi digitado => Número ou Letra?
+            if ((e.KeyCode >= Keys.D0 && e.KeyCode <= Keys.D9) || (e.KeyCode >= Keys.NumPad0 && e.KeyCode <= Keys.NumPad9))
+            {
+                verificarNumero = true;
+
+            }
+            else
+            {
+                if (e.KeyCode == Keys.Oemcomma || e.KeyCode == Keys.Decimal) verificarNumero = true;//liberar a vírgula
+                if (e.KeyCode == Keys.Enter) verificarNumero = true; //liberar a tecla enter
+                if (e.KeyCode == Keys.Back) verificarNumero = true; //liberar a tecla back
+                int qtdVirgula = descontotxt.Text.Count(v => v == ','); //contar virgulas
+                if (qtdVirgula > 1) verificarNumero = false;//verificar virgulas
+                                                            //validação final => a mensagem vai aparecer se um dos itens não foi atendido
+            }
+
+            if (verificarNumero == false)
+            {
+                MessageBox.Show("Somente números", "ADS/JIPA", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                descontotxt.Text = descontotxt.Text.Remove(descontotxt.Text.Length - 1);
+            }
+        }
+
+        private void novobtn_Click(object sender, EventArgs e)
+        {
+            valortxt.Clear();
+            resultadotxt.Clear();
+            descontotxt.Clear();
+            descontotxt.Visible = false;
+            percentuallb.Visible = false;
+        }
     }
 }

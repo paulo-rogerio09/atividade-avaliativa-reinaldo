@@ -73,6 +73,7 @@
             this.salarioatualtxt.Name = "salarioatualtxt";
             this.salarioatualtxt.Size = new System.Drawing.Size(174, 20);
             this.salarioatualtxt.TabIndex = 27;
+            this.salarioatualtxt.TextChanged += new System.EventHandler(this.salarioatualtxt_TextChanged);
             this.salarioatualtxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.salarioatualtxt_KeyUp);
             this.salarioatualtxt.Leave += new System.EventHandler(this.salarioatualtxt_Leave);
             // 

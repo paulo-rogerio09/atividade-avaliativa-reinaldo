@@ -59,3 +59,4 @@ C:\Users\2025102060042\Documents\GitHub\atividade-avaliativa-reinaldo\AppExemplo
 C:\Users\2025102060042\Documents\GitHub\atividade-avaliativa-reinaldo\AppExemplo2\obj\Debug\AppExemplo2.csproj.CoreCompileInputs.cache
 C:\Users\2025102060042\Documents\GitHub\atividade-avaliativa-reinaldo\AppExemplo2\obj\Debug\AppExemplo2.exe
 C:\Users\2025102060042\Documents\GitHub\atividade-avaliativa-reinaldo\AppExemplo2\obj\Debug\AppExemplo2.pdb
+C:\Users\2025102060042\Documents\GitHub\atividade-avaliativa-reinaldo\AppExemplo2\obj\Debug\AppExemplo2.Formularios.FormJuros.resources

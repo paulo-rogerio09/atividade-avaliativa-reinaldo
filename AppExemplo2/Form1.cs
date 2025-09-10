@@ -47,5 +47,16 @@ namespace AppExemplo2
             FormCalculoArea form = new FormCalculoArea();
             form.ShowDialog(); 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void jurosbtn_Click(object sender, EventArgs e)
+        {
+            FormJuros form = new FormJuros();
+            form.ShowDialog();
+        }
     }
 }

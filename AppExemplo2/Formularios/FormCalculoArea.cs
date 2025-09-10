@@ -230,5 +230,10 @@ namespace AppExemplo2.Formularios
                 hipotenusatxt.Text = hipotenusatxt.Text.Remove(hipotenusatxt.Text.Length - 1);
             }
         }
+
+        private void ladoatxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -140,6 +140,7 @@
             this.ladoatxt.Name = "ladoatxt";
             this.ladoatxt.Size = new System.Drawing.Size(195, 20);
             this.ladoatxt.TabIndex = 39;
+            this.ladoatxt.TextChanged += new System.EventHandler(this.ladoatxt_TextChanged);
             this.ladoatxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.ladoatxt_keyup);
             this.ladoatxt.Leave += new System.EventHandler(this.ladoatxt_leave);
             // 

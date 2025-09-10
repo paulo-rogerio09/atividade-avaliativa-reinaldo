@@ -34,6 +34,7 @@
             this.btAlteracaoRotulo = new System.Windows.Forms.Button();
             this.btComboBox = new System.Windows.Forms.Button();
             this.btCalculoDeArea = new System.Windows.Forms.Button();
+            this.jurosbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -105,11 +106,22 @@
             this.btCalculoDeArea.UseVisualStyleBackColor = false;
             this.btCalculoDeArea.Click += new System.EventHandler(this.btCalculoDeArea_Click);
             // 
+            // jurosbtn
+            // 
+            this.jurosbtn.Location = new System.Drawing.Point(87, 469);
+            this.jurosbtn.Name = "jurosbtn";
+            this.jurosbtn.Size = new System.Drawing.Size(405, 23);
+            this.jurosbtn.TabIndex = 7;
+            this.jurosbtn.Text = "CALCULO DE JUROS";
+            this.jurosbtn.UseVisualStyleBackColor = true;
+            this.jurosbtn.Click += new System.EventHandler(this.jurosbtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(599, 465);
+            this.ClientSize = new System.Drawing.Size(599, 548);
+            this.Controls.Add(this.jurosbtn);
             this.Controls.Add(this.btCalculoDeArea);
             this.Controls.Add(this.btComboBox);
             this.Controls.Add(this.btAlteracaoRotulo);
@@ -130,6 +142,7 @@
         private System.Windows.Forms.Button btAlteracaoRotulo;
         private System.Windows.Forms.Button btComboBox;
         private System.Windows.Forms.Button btCalculoDeArea;
+        private System.Windows.Forms.Button jurosbtn;
     }
 }
 

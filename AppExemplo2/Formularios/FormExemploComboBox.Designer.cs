@@ -93,6 +93,7 @@
             this.valortxt.Name = "valortxt";
             this.valortxt.Size = new System.Drawing.Size(121, 20);
             this.valortxt.TabIndex = 29;
+            this.valortxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.valortxt_KeyUp);
             // 
             // label2
             // 
@@ -110,6 +111,7 @@
             this.descontotxt.Size = new System.Drawing.Size(121, 20);
             this.descontotxt.TabIndex = 31;
             this.descontotxt.TextChanged += new System.EventHandler(this.descontotxt_TextChanged);
+            this.descontotxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.descontotxt_KeyUp);
             // 
             // resultadotxt
             // 
@@ -144,6 +146,7 @@
             this.novobtn.TabIndex = 35;
             this.novobtn.Text = "NOVO";
             this.novobtn.UseVisualStyleBackColor = true;
+            this.novobtn.Click += new System.EventHandler(this.novobtn_Click);
             // 
             // FormExemploComboBox
             // 
